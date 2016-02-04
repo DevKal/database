@@ -1,3 +1,3 @@
 #Projet database
- ## 
- #####Crée par ** DevKal **
+## Base de données exercice simploniens
+#####Crée par *DevKal*
